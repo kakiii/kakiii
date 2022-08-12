@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 <div>
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakiii&show_icons=true&hide_border=false&theme=react&layout=compact&langs_count=4" />
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kakiii&show_icons=true&hide_border=false&theme=react" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakiii&show_icons=true&hide_border=true&layout=compact&hide=scss,html&theme=vue-dark" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kakiii&show_icons=true&hide_border=true&theme=vue-dark" />
 </div>
