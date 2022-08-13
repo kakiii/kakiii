@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on an [internship](https://www.liverpool.ac.uk/distributed-algorithms-cdt/programme/internships/) in University of Liverpool.
 - 🌱 I’m currently learning NLP.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with internship (industrial or academia are both okay) in Netherlands or EU.
 - 💬 Ask me about how life is in XJTLU, Unversity of Liverpool, or TU Delft.
 - 📫 How to reach me: 
