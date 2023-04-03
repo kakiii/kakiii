@@ -8,12 +8,11 @@ I'm currently a master student at [TU Delft](https://www.tudelft.nl/)🎓
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on an [internship](https://www.liverpool.ac.uk/distributed-algorithms-cdt/programme/internships/) in University of Liverpool.
 - 🌱 I’m currently learning NLP.
 - 🤔 I’m looking for internship positions in industry or academia in Netherlands or EU.
 - 💬 Ask me about how life is in XJTLU, Unversity of Liverpool, or TU Delft.
 - 📫 How to reach me: 
-  - Instagram📷: @kakiqaq
+  - GitHub: @kakiii
 
 
 <div>
