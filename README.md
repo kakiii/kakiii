@@ -2,15 +2,15 @@
 
 This is Kaki. 
 
-I'm currently a master student at [TU Delft](https://www.tudelft.nl/)🎓
+I'm a graduated master student at [TU Delft](https://www.tudelft.nl/)🎓.
 <!--
 **kakiii/kakiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning NLP.
-- 🤔 I’m looking for internship positions in industry or academia in Netherlands or EU.
-- 💬 Ask me about how life is in XJTLU, Unversity of Liverpool, or TU Delft.
+- 🌱 I’m currently working as an AI engineer in a Dutch company.
+- 🤔 I’m looking for full time positions in industry in Netherlands or EU.
+
 - 📫 How to reach me: 
   - GitHub: @kakiii
 
