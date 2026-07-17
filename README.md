@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-This is Kaki. 
+I'm Kaki — an AI engineer in the Netherlands 🇳🇱, making LLMs useful *after* the demo.
 
-I'm a graduated master student at [TU Delft](https://www.tudelft.nl/)🎓.
-<!--
-**kakiii/kakiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Building agentic systems for cloud operations (FinOps & application insights)
+- 🎓 MSc AI from [TU Delft](https://www.tudelft.nl/) — thesis on conversational retrieval over dense legal documents
+- 🔋 Once taught models to predict [battery cycle life](https://research.tudelft.nl/en/publications/predicting-battery-cycle-life-with-few-shot-transfer-learning-ove/) (IEEE ISGT Europe)
+- 🌐 More about me: [kakiwang.nl](https://kakiwang.nl) · [LinkedIn](https://www.linkedin.com/in/kakiwang/)
 
-Here are some ideas to get you started:
--->
-- 🌱 I’m currently working as an AI engineer in a Dutch company.
-- 🤔 I’m looking for full time positions in industry in Netherlands or EU.
-
-- 📫 How to reach me: 
-  - GitHub: @kakiii
-
-
-<div>
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakiii&show_icons=true&hide_border=true&layout=compact&hide=scss,html&theme=vue-dark" />
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kakiii&show_icons=true&hide_border=true&theme=vue-dark" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kakiii/kakiii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kakiii/kakiii/output/github-contribution-grid-snake.svg">
+  <img alt="my contribution graph, being eaten by a snake" src="https://raw.githubusercontent.com/kakiii/kakiii/output/github-contribution-grid-snake.svg">
+</picture>
